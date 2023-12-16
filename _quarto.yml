@@ -1,0 +1,32 @@
+project:
+  type: book
+
+book:
+  title: "jump-start-book"
+  author: "Steve Simon"
+  date: "2023-10-03"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - Picking a research topic.qmd
+    - Selecting your research hypothesis.qmd
+    - Selecting your research design.qmd
+    - Selecting your sample size.qmd
+    - Developing your pilot study.qmd
+    - Designing your questionnaire.qmd
+    - Obtaining ethical approval for your study.qmd
+    - Setting up your data entry process.qmd
+    - Running a descriptive data analysis.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+

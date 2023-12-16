@@ -2,3 +2,12 @@
 .Rhistory
 *.RData
 *.Rproj
+/_book/*.*
+/_book/site_libs/*.*
+/_book/site_libs/bootstrap/*.*
+/_book/site_libs/clipboard/*.*
+/_book/site_libs/quarto-html/*.*
+/_book/site_libs/quarto-nav/*.*
+/_book/site_libs/quarto-search/*.*
+
+/.quarto/
