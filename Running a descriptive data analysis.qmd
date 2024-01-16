@@ -1,9 +1,6 @@
 # Setting up your data entry process
 
-This chapter is based on [Steps in a descriptive model][sim_des] published 2001-10-11. Also refer to [Tentative table of contents][sim_tab], published 
-
-[sim_gen]: http://www.pmean.com/posts/descriptive-01/
-[sim_tab]: http://www.pmean.com/10/Contents.html
+This chapter is based on [Steps in a descriptive model][sim_des] published 2001-10-11. Also refer to [Tentative table of contents](http://www.pmean.com/10/Contents.html).
 
 ## Step 1: Arrange your data in a rectangular format
 
@@ -20,3 +17,5 @@ Add text.
 ## The fly in the ointment: longitudinal and repeated measures data
 
 Add text.
+
+[sim_des]: http://www.pmean.com/13/descriptive.html
