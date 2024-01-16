@@ -1,14 +1,44 @@
 # Picking a research topic
 
-Insert text.
+This book is about what to do when you get stuck along your research journey. But what if you're not sure where to start? This is a problem mostly confined to academic circles. 
+
+If you work in the private sector, it's different. You have a boss that will tell you what research topic you should investigate. It's usually something that affects your company's bottom line. If anything, your boss will give you too many research topics to work on. You need to say "Boss, I'm glad to work on whatever you think is important. Just give me an idea which of the ten areas that you just mentioned is your top priority."
+
+In academia for the most part, you're expected to come up with great research topics and well as conducting great research about the topic that you choose. If you are a student working on a thesis or dissertation, perhaps your adviser did the choosing for you, or perhaps not. If you are a faculty member, you might have mentor or you might have a department head who is willing and able to specify what you work on.
+
+If you don't have someone else calling the shots on your research, this is good news and bad news.
+
+The good news is that you can duck the research topics that you would just hate, hate, hate to have to work on. If spending long hours in a sterile laboratory leaves you cold, find a research topic more directly related to the clinic patients that you see every day. If running multiple focus groups gives you stage fright, find a research question that can be answered with a paper and pencil questionnaire.
+
+The bad news is that you will either have too many ideas about what research topic to pick or you may have no idea at all. Too many ideas is easy. Pick the one that optimizes some criteria. It gets you to publication fastest, it takes the least amount of time away from your personal life, or it is the topic most likely to help the patients that you see or the community that you live in. Or maybe some combination of these or other considerations.
+
+If you have no idea what to do research on, you always have the option of not doing research at all. What, you say? You need to get that PhD? You need to get tenure? Well then, here's what you need to do.
 
 ## Step 1. Describe what bothers you
 
-Insert text.
+My theory is that irritation drives most research efforts. It's just a personal observation without any hard data to support it, but most researchers do research because they see something is wrong. It's wrong and it bothers them and it needs to be fixed. 
+
+There are two types of wrong. There's the "I'm doing something today that I know I could be doing better tomorrow." There is also the "I'm doing it right, but no one else is."
+
+Either way, there's a sense of irritation. It's that they have an itch that they just have to scratch. There is something that needs to be fixed and I won't feel right until I try to fix it. That's where I think for a lot of research ideas come from. 
+
+If nothing irritates you (boy, that must be nice!), then talk to the people that you work with. What irritates them?
+
+Now if you don't work in a clinic or other location where problems might cause irritation, get away from your desk and visit a few places where problems need solving. This doesn't mean that you camp out in the surgery suite. It means that you schmooze in the cafeteria. Better yet, attend some of the journal clubs that various groups offer. The important thing is to just get out of your office. You're not going to get good research ideas sitting in front of your computer all day.
 
 ## Step 2. Read what others have said
 
-Insert text.
+Most research papers have four sections: literature review, methods, results, and discussion. Skip the first three sections and head straight for the discussion section. Researchers will brag here about how much better their research is compared to everything that came before it. Yeah, yeah. It's okay to let them crow a bit.
+
+But then they (if they are honest and ethical researchers) will fess up about the weaknesses of their research. Here's where you fit in. Dream big. Think about what could you do that would allow you to get the next publication. What weakness could you address so that you can point to their lousy research and then crow about how much better your stuff is.
+
+There's no research study totally devoid of weaknesses of course, but sometimes the weaknesses that they have are ones that you are incapable of addressing. You don't have a big enough budget, you don't have the right type of patients, or you don't have the time or energy to fix their weaknesses.
+
+In that case, think not about improving on their research, but replicating their success. There's not enough effort put in to replication.
+
+National Academies of Sciences, Engineering, and Medicine. 2019. Reproducibility and Replicability in Science. Washington, DC: The National Academies Press. https://doi.org/10.17226/25303.
+
+You could conduct a pure replication, where every feature of the original study is reproduced in your study to the greatest extent possible. This is not the only type of replication. You can see if the research findings work in your neck of the woods. Think of your work as a small (or maybe a big) extension into a different population.
 
 ## Step 3. Talk about your idea with others
 
