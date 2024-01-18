@@ -38,7 +38,9 @@ In that case, think not about improving on their research, but replicating their
 
 National Academies of Sciences, Engineering, and Medicine. 2019. Reproducibility and Replicability in Science. Washington, DC: The National Academies Press. https://doi.org/10.17226/25303.
 
-You could conduct a pure replication, where every feature of the original study is reproduced in your study to the greatest extent possible. This is not the only type of replication. You can see if the research findings work in your neck of the woods. Think of your work as a small (or maybe a big) extension into a different population.
+You could conduct a pure replication, where every feature of the original study is reproduced in your study to the greatest extent possible. 
+
+This is not the only type of replication. You can see if the research findings work in your neck of the woods. Think of your work as a small (or maybe a big) extension into a different population. Will the proposed intervention work in a population that is older? Will it work in a rural setting? Will it work during the midnight shift in the emergency room?
 
 ## Step 3. Talk about your idea with others
 
