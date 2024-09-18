@@ -1,0 +1,21 @@
+# Setting up your data entry process
+
+This chapter is based on [Steps in a descriptive model][sim_des] published 2001-10-11.
+
+## Step 1: Arrange your data in a rectangular format
+
+Add text.
+
+## Step 2: Create codes for categorical data
+
+Add text.
+
+## Step 3: Document missing values
+
+Add text.
+
+## The fly in the ointment: longitudinal and repeated measures data
+
+Add text.
+
+[sim-des]: http://new.pmean.com/steps-in-descriptive-model/

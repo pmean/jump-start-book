@@ -7,18 +7,18 @@ book:
   date: "2023-10-03"
   chapters:
     - index.qmd
-    - intro.qmd
-    - Picking a research topic.qmd
-    - Selecting your research hypothesis.qmd
-    - Selecting your research design.qmd
-    - Selecting your sample size.qmd
-    - Developing your pilot study.qmd
-    - Designing your questionnaire.qmd
-    - Obtaining ethical approval for your study.qmd
-    - Setting up your data entry process.qmd
-    - Running a descriptive data analysis.qmd
-    - summary.qmd
-    - references.qmd
+    - chapters/01 Introduction.qmd
+    - chapters/02 Picking a research topic.qmd
+    - chapters/03 Selecting your research hypothesis.qmd
+    - chapters/04 Selecting your research design.qmd
+    - chapters/05 Selecting your sample size.qmd
+    - chapters/06 Developing your pilot study.qmd
+    - chapters/07 Designing your questionnaire.qmd
+    - chapters/08 Obtaining ethical approval for your study.qmd
+    - chapters/09 Setting up your data entry process.qmd
+    - chapters/10 Running a descriptive data analysis.qmd
+    - chapters/98 Summary.qmd
+    - chapters/99 References.qmd
 
 bibliography: references.bib
 
@@ -28,5 +28,5 @@ format:
   pdf:
     documentclass: scrreprt
 
-editor: source
+editor: visual
 

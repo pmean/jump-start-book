@@ -1,0 +1,42 @@
+# Introduction
+
+This is a great book. Some of the material here is reproduced from my [original book proposal][sim-prop], published in 2010-07-23.
+
+Refer to the [tenative table of contents][sim-toc], published 201-007-24.
+
+
+
+[sim-prop]: http://www.pmean.com/10/SecondBook.html
+[sim-toc]: http://www.pmean.com/10/Contents.html
+
+This book will explain the next three steps that you have to take at any stage of your research project and it is targeted to beginning researchers who are often confused about the research process and are often unsure about what to do next. 
+
+When people come into my office asking for advice about Statistics, they may be at the beginning, the planning phase of the study. Or they may be getting their data ready for data analysis. Or they may be figuring out which data analysis they are supposed to be using. Or they may be thinking about how to write up all the results. The one thing in common is that they come to see me when they are "stuck." There are a few exceptions, people who know what they want to do next and they just want to run their thoughts by me to get my opinion. But most people, if they knew what they were supposed to be doing, they'd be doing those things.
+
+So what do I advise people to do when they are stuck? I can't lay out the entire task in front of them, but I can almost always tell them what the next few steps should be. If they take their first three steps carefully, the following steps should eventually become obvious.
+
+I am writing this book to reach people who can't visit me in person. This book is for you if you have to struggle with a research project, especially your first major research project, and you want guidance on how to best proceed. The examples I give will be targeted to a medical research setting and to studies involving humans, but should be broadly applicable to other research areas, especially research in the social sciences.
+
+There's a certain amount of arrogance in writing a book and expecting people to pay good money to read it. I'm certainly arrogant enough, but I hope this book will justify that arrogance. I do have more than 25 years of consulting experience in academic settings, in the federal government, in a hospital, and as an independent consultant. The one advantage of being old is that I've seen it all before. I could not have written this book twenty or even ten years ago.
+
+There's a second level of arrogance, though, in presupposing that I can offer advice to you without ever having met you and without knowing anything about your research project. There are certainly some research projects where the steps I suggest may not make sense, and I apologize in advance to anyone who has such a project and does not get any benefit from this book. I do believe, however, that there is a commonality in most research. In particular, while the final steps in a data analysis might be impossible to predict, the initial steps can be largely predicted, based on my experience. And that's what most people need. Once they get some momentum back in their research project, they usually find a way to finish things up.
+
+The general advice behind the steps I am suggesting is that you should never dive into the deep end of the swimming pool first. There's a natural tendency to tackle the hardest thing first, but this is a mistake. Instead, wade in gently at the shallow end. Thus, the first step for a descriptive data analysis is "know your count" which means to know how many observations are in your data set and how many values are missing in each of your key variables. This sounds like a trivial step, but you must do this. If you don't know how much data you have, then you will be likely to overlook important details later on like how complex of a statistical model might be supported by your data set.
+
+This is not just advice that I offer to you, but advice I follow myself. When I help out with a new research problem or a new data set, I can't jump in the deep end either. I need to get comfortable with things. Small easy steps will help build my confidence before I tackle the big things.
+
+This book covers the full range of research. The first few chapters talk about the steps you need to take in designing your research study. A good research plan, put in writing, is essential for quality research. No one asks me about how to collect the data, but once they have it, they need to know how to enter it into the computer, if it is on paper, or how to import the data into a software package if it comes from an electronic source.
+
+Once you have data in a program like SPSS, you may not know what procedures to use. I have chapters on how to start up a descriptive data analysis (the foundation of all other data analyses), and how to begin more complex data analyses like linear regression, logistic regression, and survival data analysis. I use SPSS in my examples for these chapters because I think it is an ideal statistical package for beginners, because it is widely available in many academic and medical centers, and it is easy to explain. But the general principles apply if you are using SAS, STATA, or any other statistical package.
+
+Finally, once you have all your data analysis, you need to start writing up your results. I have chapters on how to write the methods section, results section, and discussion section of a typical research paper.
+
+I can't talk about purely scientific issues. If you're stuck because you can't get your flow cytometer to work, you won't find any help here. There is, of course, substantial overlap between science and statistics, so I won't shy away from talking about this entirely. Just keep in mind that my comments regarding science are as an outsider and that I do not have any special expertise except for what little that has rubbed off on me from the very intelligent scientists and doctors that I have collaborated with.
+
+There are book out there that offer a more comprehensive overview of each of these steps. If you are writing a questionnaire, for example, Alreck and Settle offer complete and thorough advice on what to do. There are a wide range of books about how to run SPSS, and Julie Pallant has an excellent one for beginners. If you are interested in what statistical tests to use when, then Norman and Streiner have an entertaining and informative book. If you are writing up results for publication, then look no further than Lang and Secic, a definitive guide with examples from the published literature and comprehensive checklists of all the things you need.
+
+What's different about my book is that I am not trying to be a comprehensive guide that explains every single step that you might possibly take. Those guides are important but they are also difficult to read when your concern is not with every single step of the process but rather in deciding what you should be doing right now.
+
+Each chapter starts with an introduction and then defines the first three steps that you should take at this stage. Finally, I list some special cases that can cause special difficulties (the fly in the ointment) and which might require a more intense interaction with your statistical consultant.
+
+Fear is often a paralyzing emotion, and it may be just fear itself that is causing your difficulties. Research is not easy, but don't fool yourself into thinking that it is beyond your capabilities. You have to be a very smart person to be in a position where you are capable of doing an independent research project, so you are more capable than you might believe. You can get your research project started, and if it is stalled, you can get a jumpstart that will help you get moving again. Just focus on what your next three steps should be.
