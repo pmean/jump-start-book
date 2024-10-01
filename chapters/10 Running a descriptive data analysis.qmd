@@ -1,21 +1,21 @@
-# Setting up your data entry process
+# Running a descriptive data analysis
 
 This chapter is based on [Steps in a descriptive model][sim_des] published 2001-10-11.
 
-## Step 1: Arrange your data in a rectangular format
+## Step 1: Know your count
 
 Add text.
 
-## Step 2: Create codes for categorical data
+## Step 2: Compute ranges and frequencies
 
 Add text.
 
-## Step 3: Document missing values
+## Step 3: Examine relationships using crosstabs, boxplots, and/or scatterplots
 
 Add text.
 
-## The fly in the ointment: longitudinal and repeated measures data
+## The fly in the ointment: ordinal data
 
 Add text.
 
-[sim-des]: http://new.pmean.com/steps-in-descriptive-model/
+[sim_des]: http://new.pmean.com/steps-in-descriptive-model/

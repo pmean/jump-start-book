@@ -1,0 +1,21 @@
+# Writing a methods section
+
+This is based on [Writing the methods section of a research paper][sim_met] published 2019-04-25.
+
+## Step 1:
+
+Add text.
+
+## Step 2: 
+
+Add text.
+
+## Step 3: 
+
+Add text.
+
+## The fly in the ointment: 
+
+Add text.
+
+[sim_int]: http://new.pmean.com/writing-methods-section/

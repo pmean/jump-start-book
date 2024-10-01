@@ -1,0 +1,21 @@
+# Running a systematic overview
+
+This chapter is based on [So you’re thinking about a systematic overview][sim_sys] published 2016-06-17.
+
+## Step 1: Write a protocol
+
+Look for interactions
+
+## Step 2: Collect references
+
+Add text.
+
+## Step 3: Extract information
+
+Add text.
+
+## The fly in the ointment: extreme heterogeneity
+
+Add text.
+
+[sim-sys]

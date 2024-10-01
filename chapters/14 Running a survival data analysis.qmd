@@ -1,0 +1,23 @@
+# Running a survival data analysis
+
+This chapter is based on [Steps in a typical survival data analysis][sim_sur] published 2002-10-11.
+
+## Step 1: Plot Kaplan-Meier curves for each group
+
+Examine raw probabilities using crosstabs
+
+Add text.
+
+## Step 2: Compute a simple surivival model
+
+Add text.
+
+## Step 3: Compute an adjusted survival model
+
+Add text.
+
+## The fly in the ointment: time-varying covariates
+
+Add text.
+
+[sim_sur]: http://www.new.pmean.com/steps-in-survival-analysis/

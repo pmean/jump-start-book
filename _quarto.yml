@@ -17,6 +17,17 @@ book:
     - chapters/08 Obtaining ethical approval for your study.qmd
     - chapters/09 Setting up your data entry process.qmd
     - chapters/10 Running a descriptive data analysis.qmd
+    - chapters/11 Running a linear regression analysis.qmd
+    - chapters/12 Running a logistic regression analysis.qmd
+    - chapters/13 Running a multi-factor analysis of variance model.qmd
+    - chapters/14 Running a survival data analysis.qmd
+    - chapters/15 Running a non-linear regression analysis.qmd
+    - chapters/16 Running a systematic overview.qmd
+    - chapters/17 Running a focus group.qmd
+    - chapters/18 Writing a literature review.qmd
+    - chapters/19 Writing a methods section.qmd
+    - chapters/20 Writing a results section.qmd
+    - chapters/21 Writing a discussion section.qmd
     - chapters/98 Summary.qmd
     - chapters/99 References.qmd
 

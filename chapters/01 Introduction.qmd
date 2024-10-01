@@ -1,15 +1,10 @@
 # Introduction
 
-This is a great book. Some of the material here is reproduced from my [original book proposal][sim-prop], published in 2010-07-23.
+This is a great book. Some of the material here is reproduced from my [original book proposal](http://www.pmean.com/10/SecondBook.html), published in 2010-07-23.
 
-Refer to the [tenative table of contents][sim-toc], published 201-007-24.
+Refer to the [tentative table of contents](http://www.pmean.com/10/Contents.html), published 2010-07-24.
 
-
-
-[sim-prop]: http://www.pmean.com/10/SecondBook.html
-[sim-toc]: http://www.pmean.com/10/Contents.html
-
-This book will explain the next three steps that you have to take at any stage of your research project and it is targeted to beginning researchers who are often confused about the research process and are often unsure about what to do next. 
+This book will explain the next three steps that you have to take at any stage of your research project and it is targeted to beginning researchers who are often confused about the research process and are often unsure about what to do next.
 
 When people come into my office asking for advice about Statistics, they may be at the beginning, the planning phase of the study. Or they may be getting their data ready for data analysis. Or they may be figuring out which data analysis they are supposed to be using. Or they may be thinking about how to write up all the results. The one thing in common is that they come to see me when they are "stuck." There are a few exceptions, people who know what they want to do next and they just want to run their thoughts by me to get my opinion. But most people, if they knew what they were supposed to be doing, they'd be doing those things.
 

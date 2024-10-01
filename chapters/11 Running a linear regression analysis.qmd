@@ -1,0 +1,23 @@
+# Running a linear regression analysis
+
+This chapter is based on [Steps in a linear regression analysis][sim_lin] published 2001-10-11.
+
+## Step 1: Plot your data
+
+Plot your data and examine your assumptions.
+
+Add text.
+
+## Step 2: Compute a simple model
+
+Add text.
+
+## Step 3: Compute an adjusted model
+
+Add text.
+
+## The fly in the ointment: clustered data
+
+Add text.
+
+[sim_lin]: http://new.pmean.com/steps-in-linear-regression/
