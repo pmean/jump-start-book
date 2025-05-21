@@ -1,3 +1,7 @@
 # Preface {.unnumbered}
 
-This book was a long time coming.
+This book was a long time coming. I had just finished a book Statistical Evidence in Medical Trials in 2006, and had a nice idea for a second book (this one that you are holding right now). It was more or less written, spread across a few dozen web pages that I had written over the past eight years. Surely, it would drop right into my lap.
+
+Well, it was just like the John Lennon lyric in "Beautiful Boy" about how life is what happens while you're making other plans. Every year I'd show up at the Joint Statistics Meeting and look for the Cambridge University Press booth. I'd say hello, first to Lauren Cowles, and later to Arman Chowdhury. This is the year, I'd tell them, that I'll get the book written. I know exactly what I need to do. And every year, I'd write a lot less than I intended to.
+
+I turned a corner (slowly) in 2023 when I converted my thin writings into a book project in Quarto. 

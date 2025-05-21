@@ -4,7 +4,7 @@ project:
 book:
   title: "jump-start-book"
   author: "Steve Simon"
-  date: "2023-10-03"
+  date: "Started 2023-10-03, last major update 2025-05-21"
   chapters:
     - index.qmd
     - chapters/01 Introduction.qmd
