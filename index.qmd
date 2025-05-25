@@ -9,3 +9,45 @@ Every year I'd show up at the Joint Statistics Meeting and look for the Cambridg
 I turned a corner (slowly) in 2023 when I converted my thin writings into a book project in Quarto. I really love Quarto and if you have been using RMarkdown for a while, you should really switch. It's an easy transition, and everything is so much more intuitive under Quarto.
 
 So I'm finally done. It was a long time coming, but it's here. Read on!
+
+Wait, it's not done yet. Here are the page counts for each chapter.
+
+```{r}
+#| message: false
+#| warning: false
+#| echo: false
+#| label: page-counts
+
+library(glue)
+library(stringr)
+library(tidyverse)
+
+count_words <- function(fn) {
+  read_lines(fn) |>
+    paste0(collapse=" ") |>
+    str_replace_all("[^a-z A-Z]", " ") |>
+    str_replace_all(" +", "~") |> 
+    str_split("~") |>
+    unlist() |>
+    length()
+}
+
+n <- count_words("index.qmd")
+
+file_list <- list.files(path="chapters")
+for (fn in file_list) {
+  ni <- count_words(glue("chapters/{fn}"))
+  n <- append(n, ni)
+}
+n_total <- sum(n)
+paste0("-   Chapter ", 0:length(file_list), ": ", n) |>
+  str_replace_all("Chapter 0", "Preface") |>
+  str_replace_all("Chapter 22", "Summary") |>
+  str_replace_all("Chapter 23", "Bibliography") |>
+  paste0(collapse="\n") -> chapter_count
+write_lines(c(n_total, n), paste0(Sys.Date(), ".txt"))
+```
+
+There are approximately `r n_total` words in the book. The word counts for individual chapters are
+
+`r chapter_count`

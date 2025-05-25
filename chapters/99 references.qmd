@@ -2,3 +2,5 @@
 
 ::: {#refs}
 :::
+
+I'm thinking that maybe it makes more sense to put a bibliography at the end of each chapter, but I haven't decided for sure just yet.
