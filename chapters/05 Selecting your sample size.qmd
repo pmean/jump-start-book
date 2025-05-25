@@ -1,12 +1,6 @@
 # Selecting your sample size
 
-This is a book created from markdown and executable code.
-
-See @knuth84 for additional discussion of literate programming.
-
-```{r}
-1 + 1
-```
+This chapter is based on \<<find web page>\>. Also refer to [Tentative table of contents](http://www.pmean.com/10/Contents.html).
 
 The first three steps in selecting an appropriate sample size (created 2009-07-20, updated 2010-01-15) This page is moving to a new website.
 

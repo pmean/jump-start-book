@@ -1,6 +1,6 @@
 # Running a linear regression analysis
 
-This chapter is based on [Steps in a linear regression analysis][sim_lin] published 2001-10-11.
+This chapter is based on [Steps in a linear regression analysis](http://new.pmean.com/steps-in-linear-regression/) published 2001-10-11. Also refer to [Tentative table of contents](http://www.pmean.com/10/Contents.html).
 
 ## Step 1: Plot your data
 
@@ -19,5 +19,3 @@ Add text.
 ## The fly in the ointment: clustered data
 
 Add text.
-
-[sim_lin]: http://new.pmean.com/steps-in-linear-regression/

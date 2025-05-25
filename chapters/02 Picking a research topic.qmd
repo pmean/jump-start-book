@@ -1,19 +1,28 @@
 # Picking a research topic
 
-Insert text.
+This chapter is based on \<<find web page>\>. Also refer to [Tentative table of contents](http://www.pmean.com/10/Contents.html).
+
+For some people, picking a research topic is easy. Your boss will tell you what to work on. For a few jobs, you have enough independence that you get to choose, but even in those settings, the nature of the company that you work for will determine what the best research topics are.
+
+The people who have problems picking a research topics are students. They have to find something suitable for a thesis or dissertation, but they have never done any serious research before. Where to start, where to start?
+
+The others who have problems picking a research topic are people working in a setting that is primarily clinical. The day-to-day demands keep you busy enough. Even so, you want to do some research, but there is not a lot of guidance from above. Where to start, where to start?
 
 ## Step 1. Describe what bothers you
 
-Insert text.
+Over many decades, I have learned that irritation is the germ for many research ideas. it's like that annoying little grain of sand inside an oyster that turns into a pearl.
 
-## Step 2. Read what others have said
+So what irritates you? It is either something that you are currently doing in your job that makes a difference, but no one else is following your lead. What is wrong with those people? It's obvious to me how things should be done.
 
-Insert text.
+You are not in a position to impose your will on others, so you have to persuade them. And half of the people you have to persuade are smarter than you. The other half thinks they are smarter than you.
 
-## Step 3. Talk about your idea with others
+What will convince such a stubborn group? Well, remember the famous quote from W. Edwards Deming, "In God we trust, all others must bring data." He also said, "Without data, you are just another person with an opinion."
 
-Insert text.
+Perhaps the best illustration of the importance of data comes from the Crimean War. Florence Nightingale, the founder of modern nursing. She toiled in a military hospital caring for wounded soldiers. The death rates at this hospital were horrific, and most deaths came not from the battle wounds, but rather from illnesses caught during recuperation. Through careful sanitation, better nutrition, and other reforms, she greatly reduced the number of hospital deaths.
 
-## The fly in the ointment
+Florence Nightingale wanted to see these changes implemented in other hospitals, getting attention from the authorities, especially for a woman, was difficult. She devoted herself to collecting statistics, seeing those as the key to persuasion. And it worked. Her testimony before various commisions and politicians led to the codification of many of her reforms.
 
-Insert text.
+So if you are doing something that can change the world, get the world to change by collecting some data.
+
+The flip side of the irritation coin is when you yourself are doing something that you know isn't working and you'd like to fix it. Think about what you might change. But don't just change right away. Develop a plan.
+

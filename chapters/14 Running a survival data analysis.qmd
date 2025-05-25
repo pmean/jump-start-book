@@ -1,6 +1,6 @@
 # Running a survival data analysis
 
-This chapter is based on [Steps in a typical survival data analysis][sim_sur] published 2002-10-11.
+This chapter is based on [Steps in a typical survival data analysis](http://www.new.pmean.com/steps-in-survival-analysis/) published 2002-10-11. Also refer to [Tentative table of contents](http://www.pmean.com/10/Contents.html).
 
 ## Step 1: Plot Kaplan-Meier curves for each group
 
@@ -19,5 +19,3 @@ Add text.
 ## The fly in the ointment: time-varying covariates
 
 Add text.
-
-[sim_sur]: http://www.new.pmean.com/steps-in-survival-analysis/

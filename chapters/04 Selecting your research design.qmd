@@ -1,6 +1,6 @@
 # Selecting your research design
 
-Insert text.
+This chapter is based on <<find web page>>. Also refer to [Tentative table of contents](http://www.pmean.com/10/Contents.html).
 
 ## Step 1. Decide if you can/should randomize
 
@@ -17,3 +17,7 @@ Insert text.
 ## The fly in the ointment
 
 Insert text.
+
+## Bibliography
+
+Steve Simon. So you’re thinking about a retrospective chart review. PMean blog, 2016-05-02. Available in [html format](http://blog.pmean.com/chart-review/).

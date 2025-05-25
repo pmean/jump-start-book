@@ -1,6 +1,6 @@
 # Running a focus group
 
-This chapter is based on [Focus groups and qualitative research][sim_foc] published 2004-04-13.
+This chapter is based on \[Focus groups and qualitative research\]\[sim_foc\] published 2004-04-13. Also refer to [Tentative table of contents](http://www.pmean.com/10/Contents.html).
 
 ## Step 1: Select a theoretical framework
 
@@ -14,8 +14,6 @@ Add text.
 
 Add text.
 
-## The fly in the ointment:uneven participation 
+## The fly in the ointment:uneven participation
 
 Add text.
-
-[sim-foc]: http://new.pmean.com/focus-groups-are-great/

@@ -1,6 +1,6 @@
 # Designing your questionnaire
 
-Insert text.
+This chapter is based on <<find web page>>. Also refer to [Tentative table of contents](http://www.pmean.com/10/Contents.html).
 
 ## Step 1. Brainstorm a long list and then prune back
 

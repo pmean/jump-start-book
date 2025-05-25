@@ -1,6 +1,6 @@
 # Running a systematic overview
 
-This chapter is based on [So you’re thinking about a systematic overview][sim_sys] published 2016-06-17.
+This chapter is based on \[So you’re thinking about a systematic overview\]\[sim_sys\] published 2016-06-17. Also refer to [Tentative table of contents](http://www.pmean.com/10/Contents.html).
 
 ## Step 1: Write a protocol
 
@@ -18,4 +18,4 @@ Add text.
 
 Add text.
 
-[sim-sys]
+\[sim-sys\]

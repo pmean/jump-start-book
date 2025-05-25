@@ -1,6 +1,6 @@
 # Running a multi-factor analysis of variance model
 
-This chapter is based on [Steps in a typical ANOVA model][sim_ano] published 2002-10-11.
+This chapter is based on [Steps in a typical ANOVA model](http://www.pmean.com/posts/anova/) published 2002-10-11. Also refer to [Tentative table of contents](http://www.pmean.com/10/Contents.html).
 
 ## Step 1: Plot clustered boxplots
 
@@ -17,5 +17,3 @@ Add text.
 ## The fly in the ointment: unbalanced data
 
 Add text.
-
-[sim_ano]: http://www.pmean.com/posts/anova/

@@ -2,9 +2,10 @@
 
 There are two relevant pages:
 
--   [Writing the introduction section][sim_int] published 2019-03-29.
--   [How to write a literature review][sim_lit] published 2019-01-16
+-   [Writing the introduction section](http://new.pmean.com/introduction-section/) published 2019-03-29.
+-   \[How to write a literature review\]\[sim_lit\] published 2019-01-16
 
+Also refer to [Tentative table of contents](http://www.pmean.com/10/Contents.html).
 
 ## Step 1: Organize your references
 
@@ -21,5 +22,3 @@ Add text.
 ## The fly in the ointment: too many/too few references
 
 Add text.
-
-[sim_int]: http://new.pmean.com/introduction-section/

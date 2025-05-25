@@ -1,6 +1,6 @@
 # Developing your pilot study
 
-Insert text.
+This chapter is based on <<find web page>>. Also refer to [Tentative table of contents](http://www.pmean.com/10/Contents.html).
 
 ## Step 1. Visualize the bigger study in the future
 
@@ -17,3 +17,13 @@ Insert text.
 ## The fly in the ointment
 
 Insert text.
+
+## Bibliography
+
+Steve Simon. IRB review of a pilot study. PMean blog, 2007-03-26. Available in [html format](http://www.new.pmean.com/irb-review-pilot/).
+
+Steve Simon. So you're thinking about a pilot study. PMean blog, 2016-06-16. Available in [html format](http://blog.pmean.com/pilot-study/).
+
+Steve Simon. Slapping the word pilot on a failed study. PMean blog, 2019-03-03. Available in \[html format\]\[simon-2019\].
+
+Steve Simon. The best reasons to run a pilot study. PMean blog, 2023-12-06. Available in [html format](http://new.pmean.com/reasons-to-run-a-pilot/).

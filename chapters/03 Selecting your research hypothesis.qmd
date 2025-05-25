@@ -1,10 +1,12 @@
 # Selecting your research hypothesis
 
-Insert text.
+This chapter is based on <<find web page>>. Also refer to [Tentative table of contents](http://www.pmean.com/10/Contents.html).
 
 ## Step 1. Choose an outcome measure
 
-Insert text.
+Do you know, in a quantitative sense, how bad things are right now? If not, plan how you are going to measure yourself. In other words, define an outcome measure. Think about what other aspects of your patient care might be affected by the change and measure them also.
+
+Then think about how you are going to measure the effects of your change. This is important. Sometimes you change things for the better, but sometimes your changes have no impact. It's even possible that your changes could make things worse instead of better.
 
 ## Step 2. Define your patient population
 
